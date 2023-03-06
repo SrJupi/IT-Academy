@@ -1,4 +1,4 @@
-# Personal Repository with projects made for IT Academy
+# Personal Repository with projects made for IT Academy ![logo](https://www.barcelonactiva.cat/documents/20124/1625465/it_academy_logo.png/859268c9-6aba-5a5c-2dea-980fb2098e5d?version=1.0&t=1662625857883)
 ## What is IT Academy?
 [IT Academy](https://www.barcelonactiva.cat/en/itacademy) is a project from Barcelona Activa that aims to train and develop new digital talents for the growing IT market in Barcelona. It has four main curriculums: Front-End, Back-End, Data-Science, and Full-Stack.
 
