@@ -17,14 +17,14 @@ General objectives:
 General objectives:
 * Acquire a solid foundation in the fundamental libraries of the Java language.
 
-[Task 1 - Inheritance and Polymorphism](https://github.com/SrJupi/JavaLanguage_Task1)  
-[Task 2 - Exceptions](https://github.com/SrJupi/JavaLanguage_Task2)  
-[Task 3 - Java Collections](https://github.com/SrJupi/JavaLanguage_Task3)  
-[Task 4 - Testing](https://github.com/SrJupi/JavaLanguage_Task4)  
-[Task 5 - Java Utils](https://github.com/SrJupi/JavaLanguage_Task5)  
-[Task 6 - Generics](https://github.com/SrJupi/JavaLanguage_Task6)  
-[Task 7 - Annotations](https://github.com/SrJupi/JavaLanguage_Task7)  
-[Task 8 - Lambdas](https://github.com/SrJupi/JavaLanguage_Task8)  
+[Inheritance and Polymorphism](https://github.com/SrJupi/JavaLanguage_Task1)  
+[Exceptions](https://github.com/SrJupi/JavaLanguage_Task2)  
+[Java Collections](https://github.com/SrJupi/JavaLanguage_Task3)  
+[Testing](https://github.com/SrJupi/JavaLanguage_Task4)  
+[Java Utils](https://github.com/SrJupi/JavaLanguage_Task5)  
+[Generics](https://github.com/SrJupi/JavaLanguage_Task6)  
+[Annotations](https://github.com/SrJupi/JavaLanguage_Task7)  
+[Lambdas](https://github.com/SrJupi/JavaLanguage_Task8)  
 
 ### Sprint 2 - Database
 
@@ -41,17 +41,23 @@ General objectives:
 * Design software using advanced structures, which are always established based on patterns.
 * Start working in a team (essential requirement), integrating your developments in collaborative platforms.
 
-[Task 1 - Singleton, Abstract Factory and Command](https://github.com/SrJupi/patterns_Task01)  
-[Task 2 - Observer, Callback and Dependency Injection](https://github.com/SrJupi/patterns_Task02)  
-[Task 3 - Developers Team](https://github.com/SrJupi/floristeria) 
+[Singleton, Abstract Factory and Command](https://github.com/SrJupi/patterns_Task01)  
+[Observer, Callback and Dependency Injection](https://github.com/SrJupi/patterns_Task02)  
+[Developers Team](https://github.com/SrJupi/floristeria) 
 
 ### Sprint 4 - Spring Framework Basics
 
 General objectives:
 * Learn the basic structure of a Spring Boot project.
 
+[Introduction to Spring Boot](https://github.com/SrJupi/Spring-Framework-Basics)  
+[REST API with Spring Boot](https://github.com/SrJupi/Spring-Framework-Basics2) 
+
 ### Sprint 5 - Spring Framework Advanced
 
 General objectives:
 * Learn how to properly design the project's layer structure, access data, apply security, and design tests.
+
+[Spring Boot REST API with web application](https://github.com/SrJupi/Spring-Framework-Advanced)  
+[Final Project - Dice Game](https://github.com/SrJupi/JogoDados)
 
