@@ -6,6 +6,52 @@ When I arrived in Barcelona I was looking for a Data-Science course and that's h
 
 ## Main Itinerary: Java & Spring Framework <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" height="50"/> 
 
+General objectives:
+* Learn and reinforce knowledge of the main Java libraries, as well as acquire skills in their use.
+* Acquire the set of skills necessary to develop fully functional applications, validating their correct operation before deployment.
+* Develop code following best practices, patterns, and practices commonly used in companies.
 
-## Other Projects
-### Hackaton
+
+### Sprint 1 - Java Language
+
+General objectives:
+* Acquire a solid foundation in the fundamental libraries of the Java language.
+
+[Task 1 - Inheritance and Polymorphism](https://github.com/SrJupi/JavaLanguage_Task1)  
+[Task 2 - Exceptions](https://github.com/SrJupi/JavaLanguage_Task2)  
+[Task 3 - Java Collections](https://github.com/SrJupi/JavaLanguage_Task3)  
+[Task 4 - Testing](https://github.com/SrJupi/JavaLanguage_Task4)  
+[Task 5 - Java Utils](https://github.com/SrJupi/JavaLanguage_Task5)  
+[Task 6 - Generics](https://github.com/SrJupi/JavaLanguage_Task6)  
+[Task 7 - Annotations](https://github.com/SrJupi/JavaLanguage_Task7)  
+[Task 8 - Lambdas](https://github.com/SrJupi/JavaLanguage_Task8)  
+
+### Sprint 2 - Database
+
+General objectives:
+* Design and model data structures in relational databases (SQL) and documents (NoSQL).
+
+[MySQL](https://github.com/SrJupi/mySql)  
+[MongoDB](https://github.com/SrJupi/mongoDB)  
+
+
+### Sprint 3 - Patterns
+
+General objectives:
+* Design software using advanced structures, which are always established based on patterns.
+* Start working in a team (essential requirement), integrating your developments in collaborative platforms.
+
+[Task 1 - Singleton, Abstract Factory and Command](https://github.com/SrJupi/patterns_Task01)  
+[Task 2 - Observer, Callback and Dependency Injection](https://github.com/SrJupi/patterns_Task02)  
+[Task 3 - Developers Team](https://github.com/SrJupi/floristeria) 
+
+### Sprint 4 - Spring Framework Basics
+
+General objectives:
+* Learn the basic structure of a Spring Boot project.
+
+### Sprint 5 - Spring Framework Advanced
+
+General objectives:
+* Learn how to properly design the project's layer structure, access data, apply security, and design tests.
+
